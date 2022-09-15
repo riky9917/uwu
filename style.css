@@ -13,6 +13,13 @@ h1{
                1px 1px #fff, -1px -1px #fff, 1px -1px #fff, -1px 1px #fff;
     margin-left: 0.5cm;
 }
+h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman';
+    color: rgb(150, 0, 30);
+    text-shadow: 2px 0 #fff, -2px 0 #fff, 0 2px #fff, 0 -2px #fff,
+               1px 1px #fff, -1px -1px #fff, 1px -1px #fff, -1px 1px #fff;
+    margin-left: 0.5cm;
+}
 p{    
     margin-left: 0.5cm;}
 img{
